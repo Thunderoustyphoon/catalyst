@@ -249,11 +249,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Shivam** - Lead Developer
+- **Anuj** - Lead Developer
 
 ## 📧 Support
 
-For support, email: phoenixbot66@gmail.com
+For support, email: Anujgupta2op@gmail.com
 
 ## 🙏 Acknowledgments
 
